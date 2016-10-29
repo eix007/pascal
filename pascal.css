@@ -1,0 +1,91 @@
+* {
+	box-sizing: border-box;
+}
+
+body{
+    margin:0px;
+    background:#569488;
+	font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+	border-bottom: 5px solid black;
+}
+
+p {
+	text-align: justify;
+	font-size: 24px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+
+.mainwrapper {
+	background-color: #72D1FC;
+	width: 90%;
+	margin-top: 30px;
+	margin-left: auto;
+	margin-right: auto;
+	border: 3px solid black;
+	margin-bottom: 30px;
+	clear: left;
+}
+
+.pascaldiv {
+	text-align: center;
+	font-size: 30px;
+	
+}
+
+#pascalimg {
+	max-width: 60%;
+    height: auto;
+}
+
+#pascal2 {
+	width: 30%;
+	height: auto;
+	align-content: center;
+	margin-top: -50px;
+}
+
+iframe {
+	margin-top: -50px;
+}
+
+#pascalrow {
+	margin-bottom: 30px;
+	letter-spacing: 2px;
+}
+
+#showbtn {
+	background-color: #3F8151; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+	
+	margin-bottom: 20px;
+	
+}
+
+#showpascal {
+	margin-bottom: 20px;
+	color: darkblue;
+}
+
+footer {
+    padding: 1em;
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+
+footer a {
+	color: #72D1FC;
+	text-decoration: none;
+}
